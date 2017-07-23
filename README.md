@@ -11,5 +11,6 @@ LittleTimmyTheRabbit - joined rabbit
 
 LittleMikeTheRabbit - joined rabbit
 
-References:
+#References:
+
 https://www.opennet.ru/base/dev/git_guts.txt.html 
